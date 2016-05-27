@@ -9,7 +9,9 @@ PURPOSE	这个类可以友好的弹出提示窗口，并且不占用主窗口的
 						
 
 CREATION DATE		2015-09-01
+
 LAST MODIFICATION	2015-09-01
 
 AUTHOR				itas109
+
 Blog                blog.csdn.net/itas109
